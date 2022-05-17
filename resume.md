@@ -1,7 +1,7 @@
 # Ryan McGinnis
 
 *   Passionate individual contributor with 6 years of experience. My favorite aspects
-    of technical writing include: researching & learning new things; digging
+    of technical writing include: research; digging
     into code; learning new things; figuring out & solving problems; helping other people; delivering results.
 *   Written for audiences such as: software engineers; IT administrators; data
     center technicians; Apple-certified technicians; call center agents;
